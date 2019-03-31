@@ -16,8 +16,12 @@ body {
 }
 
 .dropdown-item:active {
-    background: #e2e2e2;
-    color: #16181b;
+    background: #dc3545;
+    color: #f8f9fa;
+}
+
+.dropdown-item.active {
+    background: #dc3545;
 }
 
 .navbar {
@@ -36,4 +40,8 @@ body {
     to {
         margin-top: 3rem;
     }
+}
+
+.display-6 {
+    font-size: 2rem;
 }
