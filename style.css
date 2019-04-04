@@ -5,7 +5,6 @@ body {
     background-attachment: fixed;
     animation-name: loading;
     animation-duration: 1s;
-    height: 10000px;
 }
 
 @keyframes loading {
