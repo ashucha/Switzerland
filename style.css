@@ -86,7 +86,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-    background: #fff;
+    background: #f8f9fa;
 }
 
 ::selection {
