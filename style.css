@@ -27,6 +27,10 @@ body {
     }
 }
 
+.dropdown-menu {
+    border: none !important;
+}
+
 .dropdown-item:active {
     background: #dc3545;
     color: #f8f9fa;
